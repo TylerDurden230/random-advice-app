@@ -32,7 +32,7 @@ Users should be able to:
 
 ### What I learned
 
-I've learned how to fetch data from api
+I've learned how to fetch and use data from api
 
 ```
 function getAdvice() {
